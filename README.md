@@ -1,1 +1,1 @@
-# stellar-guide
+# Stellar - A Tailored Guide
