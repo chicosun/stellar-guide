@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Stellar - A Tailored Guide
+description: 'Concise set of recipes for Stellar enthusiasts'
+github:
+  is_project_page: false
