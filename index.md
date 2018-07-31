@@ -1,8 +1,4 @@
-# Stellar - A Tailored Guide
-## A concise set of recipes for Stellar users and developers
-
-### For more info on the project, go to https://www.stellar.org/
-
+Stellar is a blockchain based payment network that is built on the open source Stellar protocol. This guide serves as a starting point to Stellar users and developers looking for specific answers to common questions.
 
 
 
