@@ -5,7 +5,7 @@
 	- [What is Cryptocurrency?](#what-is-cryptocurrency)
 	- [Stellar and Lumens](#stellar-and-lumens)
 - [Chapter 2: Basic concepts](#chapter-2-basic-concepts)
-- [Account](#account)
+	- [Account](#account)
 	- [Public Ledger](#public-ledger)
 	- [Payments and Fees](#payments-and-fees)
 - [Chapter 3: A User Guide to Stellar](#chapter-3-a-user-guide-to-stellar)
@@ -35,7 +35,7 @@
 ## Stellar and Lumens
 
 # Chapter 2: Basic concepts
-# Account
+## Account
 ## Public Ledger
 ## Payments and Fees
 
