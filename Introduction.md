@@ -8,3 +8,4 @@ Blockchain is a data structure that allows you to store data in a tamper proof w
 
 Cryptocurrencies are decentralized digital currencies that are built using blockhain technology.   
 
+### Stellar and Lumens
