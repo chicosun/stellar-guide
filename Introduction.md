@@ -9,3 +9,5 @@ Blockchain is a data structure that allows you to store data in a tamper proof w
 Cryptocurrencies are decentralized digital currencies that are built using blockhain technology. Transactions are stored on the blockchain. Bitcoin was the first cryptocurrency with new ones released everyday.  
 
 ### Stellar and Lumens
+
+Stellar is an open-source blockchain based platform for payments. Stellar Lumens is the native cryptocurrency used on the Stellar platform. XLM is the shorthand code for Stellar Lumens.
