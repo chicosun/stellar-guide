@@ -8,7 +8,7 @@ Stellar is a blockchain based payment network that is built on the open source S
   - Stellar and Lumens
 
 
-- Chapter 2: Basic concepts
+- [Chapter 2: Basic concepts](basic-concepts.md)
   - Account
   - Public Ledger
   - Payments and Fees
