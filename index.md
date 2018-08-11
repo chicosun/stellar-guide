@@ -10,7 +10,7 @@ Stellar is a blockchain based payment network that is built on the open source S
 
 - [Chapter 2: Basic concepts](basic-concepts.md)
   - Account
-  - Public Ledger
+  - The Stellar Blockchain
   - Payments and Fees
 
 
