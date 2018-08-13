@@ -15,12 +15,9 @@ Stellar is a blockchain based payment network that is built on the open source S
 
 
 - [Chapter 3: A User Guide to Stellar](user-guide.md)
-  - Getting started
-  - How to buy and sell Lumens
-  - Ways to buy and sell Lumens
-  - Using Lumens for payments
-  - Ways to use Lumens for payments
-
+  - Exploring the Stellar Blockchain
+  - Stellar Accounts
+  
 
 - Chapter 4: Advanced concepts
   - The decentralized payment network
