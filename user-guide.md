@@ -11,3 +11,4 @@ The Stellar Foundation maintains a web interface to Stellar called [Stellar Labo
 #### Wallets
 Wallets are apps that allow you to create Stellar accounts, check balance and   transfer Lumens. Wallets can be applications for Desktop or Mobile, web sites or browser extensions.
 #### Exchanges
+Exchanges provide a way to buy and sell Lumens. They typically sport a trading interface and allow you transfer between Lumens and physical currencies (called **fiat currencies**). They also allow you to place orders to trade Lumens against other crypto currencies like Bitcoin and Ethereum.
