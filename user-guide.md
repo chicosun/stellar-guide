@@ -9,6 +9,6 @@ There are many ways to create and manage a Stellar account. Here is a brief summ
 #### The Stellar Laboratory
 The Stellar Foundation maintains a web interface to Stellar called [Stellar Laboratory](https://www.stellar.org/laboratory/). It allows you to do common operations like creating an account.
 #### Wallets
-Wallets are apps that allow you to create Stellar accounts, check balance and   transfer Lumens. Wallets can be applications for Desktop or Mobile, web sites or browser extensions.
+Wallets are apps that allow you to create Stellar accounts, check balance and   transfer Lumens. Wallets can be applications for Desktop or Mobile, web sites or browser extensions. The Stellar team maintains a [list of known wallets](https://www.stellar.org/lumens/wallets/).  
 #### Exchanges
 Exchanges provide a way to buy and sell Lumens. They typically sport a trading interface and allow you transfer between Lumens and physical currencies (called **fiat currencies**). They also allow you to place orders to trade Lumens against other crypto currencies like Bitcoin and Ethereum.
