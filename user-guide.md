@@ -6,7 +6,7 @@ You can view the transactions and balance of any Stellar account using a Blockch
 
 ### Getting started with Stellar
 There are many ways to create and manage a Stellar account. Here is a brief summary. We will look at each one in more detail later in this chapter.
-* The Stellar Laboratory
-The Stellar Foundation maintains a web interface to Stellar. It allows you to do common operations like creating an account. 
-* Wallets
-* Exchanges
+#### The Stellar Laboratory
+The Stellar Foundation maintains a web interface to Stellar. It allows you to do common operations like creating an account.
+#### Wallets
+#### Exchanges
