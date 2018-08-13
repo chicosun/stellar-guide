@@ -9,4 +9,5 @@ There are many ways to create and manage a Stellar account. Here is a brief summ
 #### The Stellar Laboratory
 The Stellar Foundation maintains a web interface to Stellar called [Stellar Laboratory](https://www.stellar.org/laboratory/). It allows you to do common operations like creating an account.
 #### Wallets
+Wallets are apps that allow you to create Stellar accounts, check balance and   transfer Lumens. Wallets can be applications for Desktop or Mobile, web sites or browser extensions.
 #### Exchanges
