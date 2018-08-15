@@ -17,3 +17,10 @@ The Bridge server simplifies things even further for special use cases involving
 For more details, refer to the [bridge-server project on Github](https://github.com/stellar/bridge-server)
 ### Supporting the Stellar Network
 The health and viability of the Stellar Network depends on diverse participation from various nodes around the world. You can support this mission by running your own stellar core servers. In addition to that, you stellar core server can function as a **validator** and participate in consensus. Ultimately, you can help other nodes come up to speed by running as an **archiver** that publishes transactions to an archive. This archive can then be used by new servers to catch up on historical transactions. This is summarized well on the official developer documentation page under [Level of participation to the network](https://www.stellar.org/developers/stellar-core/software/admin.html#level-of-participation-to-the-network)
+
+### Issue Assets on Stellar
+The Stellar Network makes it easy to issue your own custom assets (e.g. Tokens for ICOs). There are two key aspects to issuing assets.
+  - Asset Code: A custom code that uniquely identifies your asset.
+  - Trustline: Accounts that want to hold your asset will need to create a **trustline** to your asset as a way of authorization.
+
+Please refer to the official documentation for additional information on [issuing assets and code samples](https://www.stellar.org/developers/guides/issuing-assets.html)

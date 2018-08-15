@@ -36,7 +36,7 @@ Stellar is a blockchain based payment network that is built on the open source S
     - Horizon API
     - Bridge server
   - Support the Stellar platform
-  - Issue assets on Stellar
+  - Issue Assets on Stellar
 
 
 - Chapter 6: Stellar adoption
