@@ -32,8 +32,9 @@ Stellar is a blockchain based payment network that is built on the open source S
   - Stellar Laboratory
   - Stellar Testnet
   - Stellar Architecture
-    - stellar-core
-    
+    - Stellar Core
+    - Horizon API
+    - Bridge server
   - Issue assets on Stellar
   - Support the Stellar platform
 
