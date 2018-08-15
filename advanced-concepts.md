@@ -4,7 +4,7 @@
 Blockchain's ability to append data in a tamper proof way means it can be used by a network of servers that are not centrally managed. This decentralized setup allows users to trust the transaction data stored in the blockchain without having to trust the users themselves. The combination of blockchain and  decentralization led to the massive popularity of Bitcoin and other crypto currencies that followed. The Stellar Network facilitates a similar decentralized payment network where anyone can add servers and participate in transaction processing.
 
 ### Stellar Consensus Protocol
-The mechanism by which the decentralized network of servers around the world arrive at a consensus is called the Stellar Consensus Protocol. 
+The mechanism by which the decentralized network of servers around the world arrive at a consensus is called the Stellar Consensus Protocol. In traditional  systems like banks, transactions are trusted implicitly. The activities happen within the bank's own servers. But in a decentralized network distributed worldwide, not all servers can implicitly trust each other. This requires an explicit mechanism by which consensus can be established. In the case of Bitcoin, mining is the primary mechanism that drives the network towards consensus. The Stellar Network doesn't rely on mining. Instead, it uses the Stellar Consensus Protocol in which participating servers vote on the correct state of the transactions. To avoid requiring the entire global network to agree on each transaction, it requires each server to trust a subset of servers in the network which in turn can be combined with the votes to arrive at a consensus. 
 
 ### The Ledger
 ### Assets and Anchors
