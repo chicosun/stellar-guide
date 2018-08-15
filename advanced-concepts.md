@@ -14,7 +14,7 @@ In addition to handling payments, the Stellar network can act as a distributed e
 You can make an offer to buy or sell an asset that you hold in your account.    Your offer can either be **filled** by previously made offers or be added to the **orderbook** and wait for matching orders.
 
 #### Orderbook
-The orderbook holds all active offers on the Stellar network with the bid and ask offers listed separately. This orderbook is independent of the orderbooks run by Cryptocurrency exchanges. You can see a screenshot of the [orderbook on the Kraken exchange](https://www.kraken.com/charts) for the XLM/USD pair.
+The orderbook holds all active offers on the Stellar network with the bid and ask offers listed separately. This orderbook is independent of the orderbooks run by cryptocurrency exchanges. Here is a screenshot of the [orderbook on the Kraken exchange](https://www.kraken.com/charts) for the XLM/USD pair.
 ![Kraken XLM orderbook](/assets/Kraken-xlm-orderbook.jpg)
 
 #### Cross-Asset Payments
