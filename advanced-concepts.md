@@ -6,7 +6,7 @@ Blockchain's ability to append data in a tamper proof way means it can be used b
 ### Stellar Consensus Protocol
 ### The Ledger
 ### Assets and Anchors
-### Exhange and Orderbook
+### Exchange and Orderbook
 #### Stellar Distributed Exchange
 In addition to handling payments, the Stellar network can act as a distributed exchange that allows trading of any type of asset users have added to the network.  The Ledger stores user's balances as well as offers users make to buy or sell assets.
 
