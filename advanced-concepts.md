@@ -8,7 +8,7 @@ Blockchain's ability to append data in a tamper proof way means it can be used b
 ### Assets and Anchors
 ### Exhange and Orderbook
 #### Stellar Distributed Exchange
-The Stellar network can act as a distributed exchange of any type of asset users have added to the network.  Its ledger stores user's balances as well as offers users make to buy or sell assets.
+In addition to handling payments, the Stellar network can act as a distributed exchange that allows trading of any type of asset users have added to the network.  The Ledger stores user's balances as well as offers users make to buy or sell assets.
 
 #### Offers
 Offers in Stellar operate the same as limit orders in traditional markets. In order to make an offer, the user must hold the asset it wants to sell.  When a user makes an offer it is checked against existing offers in the orderbook.  If the offer crosses an existing offer it is filled at that price.  If the offer doesn't cross an existing offer, the offer is saved in the orderbook until it is taken by another offer, taken by a payment, cancelled by the user, or invalidated because the user no longer holds the asset for sale.  When multiple offers are filled at the same price, the oldest offer is filled first.
