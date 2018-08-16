@@ -7,7 +7,8 @@ The Stellar Foundation maintains a web interface to Stellar called [Stellar Labo
 The **testnet** provides a safe way to experiment with various Stellar operations. The Stellar Laboratory introduced above also provides the option to connect to the testnet instead of the Public network.
 
 ### Stellar Architecture
-Stellar is built on the following modular components that work together to facilitate a robust network.
+Stellar is built on a modular set of components that work together to facilitate a robust network. Here is a high level architecture diagram that captures how the components interact with each other.
+![Stellar Architecture Diagram](/assets/stellar-architecture.jpg)
 #### Stellar Core
 This is the fundamental building block of the Stellar network. Each node on the network runs a copy of stellar-core that supports core operations like submitting and querying transactions. For more details, refer to the [stellar-core project on Github](https://github.com/stellar/stellar-core)
 #### Horizon API
