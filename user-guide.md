@@ -7,7 +7,7 @@ You can view the transactions and balance of any Stellar account using a Blockch
 ### Stellar Accounts
 There are many ways to create and manage a Stellar account. Here is a brief summary.
 #### Stellar Account Viewer
-The Stellar Foundation maintains a simple web interface called [Stellar Account Viewer](https://www.stellar.org/account-viewer).It allows you to do common operations like creating an account and Lumen transfers.
+The Stellar Foundation maintains a simple web interface called [Stellar Account Viewer](https://www.stellar.org/account-viewer). It allows you to do common operations like creating an account and Lumen transfers.
 Creating an account generates a **secret key**. Keep this a secret since this is how you get access to your account and authorize transactions. Also note that when you create an account this way, your account is inactive until you get someone to transfer a minimum of 1 Lumen to your account.
 #### Wallets
 Wallets are apps that allow you to create Stellar accounts, check balance and   transfer Lumens. Wallets can be applications for Desktop or Mobile, web sites or browser extensions. The Stellar team maintains a [list of known wallets](https://www.stellar.org/lumens/wallets/) categorized by their type.  
