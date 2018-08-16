@@ -11,4 +11,4 @@ While tools like wallets help you manage your Stellar accounts, the real measure
   - Micropayments
   - Enterprise solutions using a private/public hybrid network
 
-The [Stellar Partner Directory](https://www.stellar.org/about/directory) maintains a list of Anchors and Companies that have built products on Stellar.
+The [Stellar Partner Directory](https://www.stellar.org/about/directory) maintains a growing list of Anchors and Companies that have built products on Stellar.
