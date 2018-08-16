@@ -5,3 +5,10 @@ Since its inception in 2014, Stellar has steadily grown in popularity but the ye
 ![Network statistics for Stellar Lumens](/assets/stellar-network-stats.jpg)
 
 ### Products built on Stellar
+While tools like wallets help you manage your Stellar accounts, the real measure of network adoption is when Stellar solves existing pain points and creates new opportunities for a new suite of products to built around Stellar. These broadly fall into the following categories:
+  - Efficient cross-border payments
+  - Custom Tokens and Assets
+  - Micropayments
+  - Enterprise solutions using a private/public hybrid network
+
+The [Stellar Partner Directory](https://www.stellar.org/about/directory) maintains a list of Anchors and Companies that have built products on Stellar. 
